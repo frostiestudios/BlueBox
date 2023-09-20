@@ -1,0 +1,3 @@
+#!/Users/frostie/PycharmProjects/BlueBox/blue_venv/bin/python3.11
+
+print('This command has been deprecated; see the "pmtiles serve" command at https://github.com/protomaps/go-pmtiles')

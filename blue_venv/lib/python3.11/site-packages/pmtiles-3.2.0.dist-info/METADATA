@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pmtiles
+Version: 3.2.0
+Summary: Library and utilities to write and read PMTiles files - cloud-optimized archives of map tiles.
+Home-page: https://github.com/protomaps/pmtiles
+Author: Brandon Liu
+Author-email: brandon@protomaps.com
+License: BSD-3-Clause
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
